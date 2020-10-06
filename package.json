@@ -1,6 +1,6 @@
 {
   "name": "aqi-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Wrapper around the AirNow air quality forecast api.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/payton-quinn/aqi-api.git"
+    "url": "git+https://github.com/paytonq/aqi-api.git"
   },
   "keywords": [
     "aqi",
@@ -23,9 +23,9 @@
   "author": "Payton Quinn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/payton-quinn/aqi-api/issues"
+    "url": "https://github.com/paytonq/aqi-api/issues"
   },
-  "homepage": "https://github.com/payton-quinn/aqi-api#readme",
+  "homepage": "https://github.com/paytonq/aqi-api#readme",
   "devDependencies": {
     "@types/jest": "^26.0.14",
     "jest": "^26.4.2",
