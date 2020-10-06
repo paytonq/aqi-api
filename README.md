@@ -1,4 +1,4 @@
-# aqi-api
+# aqi-api [![npm](https://img.shields.io/npm/v/aqi-api)](https://npmjs.org/package/aqi-api)
 Wrapper around the AirNow air quality forecast api.
 
 ## Setup
