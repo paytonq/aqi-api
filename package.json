@@ -1,6 +1,6 @@
 {
   "name": "aqi-api",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wrapper around the AirNow air quality forecast api.",
   "main": "index.js",
   "scripts": {
